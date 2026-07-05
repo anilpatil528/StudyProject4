@@ -11,6 +11,7 @@ namespace StudyProject4.Controllers
         public ActionResult Index()
         {
             return View();
+            //a
         }
 
         public ActionResult About()
